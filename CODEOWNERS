@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Abinash-hive
+/src/backend/database.py      @Abinash-hive
+/src/backend/routers/auth.py  @Abinash-hive
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Abinash-hive
